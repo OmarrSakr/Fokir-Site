@@ -52,10 +52,10 @@ Featuring articles and videos related to the site’s niche, along with publicat
 ---
 
 ## 🧑‍💻 Languages and Technologies Used
-- HTML5: For structuring the webpage.
-- CSS3: For styling and design.
-- Font Awesome: To add appealing icons for cards and statistics.
-- Google Fonts: To incorporate fonts like Roboto and Source Sans 3.
+- <code>HTML5</code>: For structuring the webpage.
+- <code>CSS3</code>: For styling and design.
+- <code>Font Awesome</code>: To add appealing icons for cards and statistics.
+- <code>Google Fonts</code>: To incorporate fonts like Roboto and Source Sans 3.
 
 ---
 
