@@ -9,6 +9,11 @@ A standout feature of this site is that each section appears smoothly when selec
 
 ---
 
+## Live Demo 🌐
+- Check out the live demo of the project at [Home Bakery](https://omarrsakr.github.io/Bakery-Website/).
+
+---
+
 ## 🛠 Website Contents
 1. Home Section
 Welcome message: Hello, I'm Alex Smith with animated text describing the role (e.g., Professional Web Developer).
