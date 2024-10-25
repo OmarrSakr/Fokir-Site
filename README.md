@@ -86,3 +86,8 @@ Featuring articles and videos related to the site’s niche, along with publicat
 - *Non-Responsive Design*: The current version is not optimized for mobile or tablet screens.
 
 ---
+
+### Contributing 💡
+Feel **free** to fork the project, make improvements, and submit a **pull** request. Contributions are welcome!
+
+---
