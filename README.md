@@ -107,7 +107,6 @@ We welcome `contributions` to **Fakir**! Here’s how you can help:
 │
 └── JS/                         # ❌ لا يوجد مجلد لتخزين ملفات JavaScript
 
-
 ```
 
 ---
