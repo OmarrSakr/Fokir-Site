@@ -77,10 +77,15 @@ We welcome `contributions` to **Fakir**! Here’s how you can help:
 ---
 
 ## 📂 Project Structure 
-```markdown
+```
 # Fِِakir-Site
 │
 ├── index.html                  # 🏠 ملف الصفحة الرئيسية
+│
+├── webfonts/                   # 🔤 مجلد لتخزين ملفات الخطوط
+│   ├── fontawesome-webfont.woff2
+│   ├── fontawesome-webfont.woff
+│   └── custom-font.ttf
 │
 ├── CSS/                        # 🎨 مجلد لتخزين ملفات CSS
 │   ├── all.min.css             # 📦 ملف Font Awesome
@@ -98,12 +103,10 @@ We welcome `contributions` to **Fakir**! Here’s how you can help:
 │   │   └── 6.jpg
 │   ├── blog/                   # 📝 مجلد لتخزين صور المدونة
 │   │   ├── 12.jpg
-│   │   └── 32.jpg
-│
-├── HTML/                       # 📑 مجلد لتخزين صفحات HTML إضافية (إذا لزم الأمر)
-│   └── index.html              # مثال على صفحة HTML إضافية
+│   │   └── 32.jpg               
 │
 └── JS/                         # ❌ لا يوجد مجلد لتخزين ملفات JavaScript
+
 
 ```
 
