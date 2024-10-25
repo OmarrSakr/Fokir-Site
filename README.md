@@ -1,6 +1,6 @@
 # Fakir Site 👩🏻‍💻 
 
-![Fakir](https://github.com/user-attachments/assets/ae4e615b-7d42-4cb8-81b2-7de793be8338)
+![Fakir](https://github.com/user-attachments/assets/fc81c8dd-5740-4cff-8a93-d8d1398114f6)
 
 This is a personal website showcasing the services, projects, and blog of the site owner.
 The website provides smooth navigation between sections through a top navigation bar (Navbar).
