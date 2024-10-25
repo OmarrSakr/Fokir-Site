@@ -10,7 +10,7 @@ A standout feature of this site is that each section appears smoothly when selec
 ---
 
 ## Live Demo 🌐
-- Check out the live demo of the project at [Home Bakery](https://omarrsakr.github.io/Fokir-Site/).
+- Check out the live demo of the project at [Fakir Site](https://omarrsakr.github.io/Fokir-Site/).
 
 ---
 
