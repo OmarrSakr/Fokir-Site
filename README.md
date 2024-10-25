@@ -66,7 +66,7 @@ We welcome `contributions` to **Fakir**! Here’s how you can help:
 2. **Clone your fork** - Use the command:
    
    ```bash
-    git clone https://github.com/OmarrSakr/Fakir-Site.git
+    https://github.com/OmarrSakr/Fakir-Site.git
 
 ---
 
