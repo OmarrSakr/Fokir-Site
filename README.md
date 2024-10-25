@@ -2,7 +2,7 @@
 
 ![Fakir](https://github.com/user-attachments/assets/fc81c8dd-5740-4cff-8a93-d8d1398114f6)
 
-This is a personal website showcasing the services, projects, and blog of the site owner.
+This is a `personal website` showcasing the services, projects, and blog of the site owner.
 The website provides smooth navigation between sections through a top navigation bar (Navbar).
 Users can easily access any section by clicking on the relevant link in the menu.
 A standout feature of this site is that each section appears smoothly when selected from the menu, enhancing user experience.
