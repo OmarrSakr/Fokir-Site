@@ -1,4 +1,4 @@
-# Fokir Site 👩🏻‍💻 
+# Fakir Site 👩🏻‍💻 
 
 ![Fakir](https://github.com/user-attachments/assets/ae4e615b-7d42-4cb8-81b2-7de793be8338)
 
@@ -60,10 +60,13 @@ Featuring articles and videos related to the site’s niche, along with publicat
 ---
 
 ## How to Use 🚀  
-1. Clone the repository:
+
+We welcome `contributions` to **Fakir**! Here’s how you can help:
+1. **Fork the repository** - Click the "Fork" button at the top right of the repository page.
+2. **Clone your fork** - Use the command:
    
    ```bash
-     git clone https://github.com/OmarrSakr/Fokir-Site.git
+    git clone https://github.com/OmarrSakr/Fakir-Site.git
 
 ---
 
@@ -84,10 +87,5 @@ Featuring articles and videos related to the site’s niche, along with publicat
 ### Important Notes 📢
 - This project is a *static website* and does not include a backend or dynamic content.
 - *Non-Responsive Design*: The current version is not optimized for mobile or tablet screens.
-
----
-
-### Contributing 💡
-Feel **free** to fork the project, make improvements, and submit a **pull** request. Contributions are welcome!
 
 ---
